@@ -1,8 +1,17 @@
 /****
  * Reading from a Vishay NTCLE100E3 Thermistor
+ * TEMPERATURE 
  * Code for thermistor readings taken from 
  * https://www.eprojectszone.com/measuring-temperature-with-an-arduino-and-a-thermistor/
  * Thermistor spec https://www.mouser.es/datasheet/2/427/VISH_S_A0012091193_1-2572478.pdf
+ *
+ * PRESSURE
+ * MPX1145a sensor
+ *
+ * EMIT/RECEIVE
+ * APC220
+ *
+ * CANSAT SINESTUDIOS TEAM - IES Villaverde
  */
 
 int R1=10000; // the resistor from voltage divider
