@@ -13,6 +13,7 @@
  *
  * EMIT/RECEIVE
  * APC220
+ * https://www.famosastudio.com/download/datasheet/APC220_Manual_en.pdf
  *
  * CANSAT SINESTUDIOS TEAM - IES Villaverde
  */
